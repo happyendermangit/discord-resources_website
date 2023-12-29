@@ -5,8 +5,8 @@ import Image from 'next/image'
 import { useEffect } from "react";
 import Styles from "../app/globals.css"
 import Style_ from "../app/discord-theme.css"
-import Navbar from "./Componemnts/navbar.jsx"
-import Button from "./Componemnts/button.jsx"
+import Navbar from "../app/Componemnts/navbar.jsx"
+import Button from "../app/Componemnts/button.jsx"
 import ReactMarkdown from 'react-markdown'
 import Link from 'next/link'
 
